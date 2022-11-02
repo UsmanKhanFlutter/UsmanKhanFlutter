@@ -15,14 +15,14 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 
 ### How to reach me: 
 <a href="mailto: usmankhanflutter@gmail.com">
-<img src="https://img.shields.io/badge/-usmankhanflutter@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/its_naseerz/">   <img src="https://img.shields.io/badge/@naseerz_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/naseerz/"><img src="https://img.shields.io/badge/Muhammad Naseer-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://naseerdev.000webhostapp.com/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-usmankhanflutter@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/uxman_khan_uk/">   <img src="https://img.shields.io/badge/@uxman_khan_uk-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/usman-khan-590418193/"><img src="https://img.shields.io/badge/Usman Khan-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://usmankhanflutter.github.io/protfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
 
 - :telescope: I’m working as a Software Engineer and contributing to Flutter for building hybri applications.
 
-- 🌱 I’m currently learning Flutter Application Development
+- 🌱 I’m Working as a flutter Develper Since last 3 years.
 
 - 💞️ I’m looking to collaborate With Everyone ❤️
 
